@@ -28,15 +28,19 @@
 - First Image : DeskTop
   <br/>
 
-  ![OnDesk1](https://github.com/dash-09/Adivi/assets/74849401/21ab9e9d-e109-411f-84dd-82462b58a3d3)
+![onDesk1](https://github.com/dash-09/Adivi/assets/74849401/2ef82629-27a8-4f5c-9b70-39e051a9a4c8)
+
 
   <br/>
+  
+  ![onDesk2](https://github.com/dash-09/Adivi/assets/74849401/ec149811-e8c2-4e70-85fe-d9b1aeb54aa2)
 
-  ![OnDesk2](https://github.com/dash-09/Adivi/assets/74849401/1a8805c4-e540-4803-8da7-f218cd9287d2)
 
   <br/>
-- Second Image : Mobile  
+- Second Image :For Mobile  
  <br/>
+
+
 
 
   <br/>
@@ -45,8 +49,7 @@
 
 |          OnMobile1                  | OnMobile2                          |
 | ----------------------------------- | ----------------------------------- |
-| ![OnMobile1](https://github.com/dash-09/Adivi/assets/74849401/1d5ff2b3-c9e1-4595-aff0-7e68bc64fc3b) |  ![OnMobile2](https://github.com/dash-09/Adivi/assets/74849401/52e0c4e2-2bc9-49f5-98f4-31dd0a8e74e9)
- |
+| ![onMobile1](https://github.com/dash-09/Adivi/assets/74849401/ad267b7c-53af-4cf4-8bb1-6c8a6b4fa04a) |  ![cc1](https://github.com/dash-09/Adivi/assets/74849401/9e8f8de0-2b58-4900-abbf-0ca0b2e063ed)|
 
 
 
