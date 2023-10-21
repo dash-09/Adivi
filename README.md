@@ -1,5 +1,5 @@
 
-## AdiviBlog : A Personal Blog by Adarsh
+## Adivi : A Personal Blog by Adarsh
 - A personal blog site made for myself.
 - Three categories are involved : Personal, Web-dev and DSA . (projects are included).
 - Personal: where I put things about myself.
