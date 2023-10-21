@@ -1,3 +1,95 @@
+
+## AdiviBlog : A Personal Blog by Adarsh
+- A personal blog site made for myself.
+- Three categories are involved : Personal, Web-dev and DSA . (projects are included).
+- Personal: where I put things about myself.
+- Web Dev : where I put things about what I am Learning on Web development and what project is ongoing.
+- DSA : Discuss the important problems on coding using java.
+
+## Tech Stack
+
+**Client:** React, Css, TailwindCSS, Html
+
+**Server:** GraphCms, GraphQl
+
+## Author
+
+- [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dash-09)
+- [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ad9z.me/)
+- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adarsh-shuklaa/)
+- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dash_7xz)
+- [![GitHub](https://img.shields.io/badge/Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/add_shy)
+ 
+
+## Preview :
+
+ <br/>
+
+- First Image : DeskTop
+  <br/>
+
+  ![OnDesk1](https://github.com/dash-09/Adivi/assets/74849401/21ab9e9d-e109-411f-84dd-82462b58a3d3)
+
+  <br/>
+
+  ![OnDesk2](https://github.com/dash-09/Adivi/assets/74849401/1a8805c4-e540-4803-8da7-f218cd9287d2)
+
+  <br/>
+- Second Image : Mobile  
+ <br/>
+
+
+  <br/>
+  
+ 
+
+|          OnMobile1                  | OnMobile2                          |
+| ----------------------------------- | ----------------------------------- |
+| ![OnMobile1](https://github.com/dash-09/Adivi/assets/74849401/1d5ff2b3-c9e1-4595-aff0-7e68bc64fc3b) |  ![OnMobile2](https://github.com/dash-09/Adivi/assets/74849401/52e0c4e2-2bc9-49f5-98f4-31dd0a8e74e9)
+ |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
