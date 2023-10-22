@@ -20,13 +20,7 @@ const NavLinks = ({ categories }) => {
           </li>
         </Link>
       ))}
-      <li>
-        {" "}
-        <a href="https://linktr.ee/add_shy" target="_blank" rel="noreferrer">
-          {" "}
-          About{" "}
-        </a>
-      </li>
+{/*       <li><a href="https://linktr.ee/add_shy" target="_blank" rel="noreferrer">About</a></li> */}
     </ul>
   );
 };
