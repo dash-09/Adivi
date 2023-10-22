@@ -95,7 +95,7 @@ import { SiLinktree } from "react-icons/si";
 const Footer = () => {
   return (
     <footer>
-      <span className="author"> 💕💕 Adarsh 💕💕</span>
+      <span className="author"> 💕💕 ADIVI 💕💕</span>
       <span className="copyright"> ©CopyRight 2023</span>
       <div className="footer-social">
         <Link to="https://ad9z.me/" target="_blank">
